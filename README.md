@@ -1,5 +1,4 @@
-📄 README.md
-To run this project just run #streamlit run chat_test_bot.py# in your terminal
+## To run this project just run "streamlit run chat_test_bot.py"  in your terminal
 markdown
 Copy
 Edit
