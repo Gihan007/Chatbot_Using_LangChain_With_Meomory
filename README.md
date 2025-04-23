@@ -4,7 +4,7 @@ Copy
 Edit
 # 🤖 Chatbot with Memory using Streamlit, LangChain, and Gemini
 
-This is a memory-enabled chatbot built with **Streamlit**, **LangChain**, and **Google Gemini API**. The chatbot remembers the context of the conversation within a session using in-memory chat history. It's designed as part of the **Weather Chatbot using DialogFlow & AWS CI/CD** project.
+This is a memory-enabled chatbot built with **Streamlit**, **LangChain**, and **Google Gemini API**. The chatbot remembers the context of the conversation within a session using in-memory chat history. 
 
 ---
 
